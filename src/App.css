@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.vantage {
+
+  width: 100%;
+  height: 100%;
+
+}
+
+.vantage iframe {
+  border: none !important;
+  width: 100% !important;
+  height: 750px !important;
+}
